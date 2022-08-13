@@ -5,6 +5,13 @@
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Transcripts
+
+[Link](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330399/URI_transcriptnew.pdf)
+
+
+[Link](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330398/RIC.Transcript.new.pdf))
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
