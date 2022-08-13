@@ -7,11 +7,11 @@
     <div class="row">
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
         <div class="page-heading">
-          <h1>Hi, I'm Dan. Welcome</h1>
+          <h1>Daniel Reisch</h1>
           
             
               <hr class="small">
-              <span class="page-subheading">**Field biologist. GIS specialist. Stats buff. Down to earth.**</span>
+              <span class="page-subheading">Field biologist. GIS specialist. Stats buff. Down to earth.</span>
             
           
 
@@ -45,9 +45,10 @@
 </header>
 
 
-![image](https://user-images.githubusercontent.com/111160288/184464569-85b65a40-72d3-4804-aa61-194cbc1d9462.png)
 
 I specialize in surveying mammals, amphibians, and birds with extensive experience throughout the Northeast. With over 2 years in conservation biological research and experience in handling and trapping endangered/threatened species, I am proficient in variety of wildlife research techniques with a desire to learn all that I can. I also have a deep interest in studying animal behavior and spatial-temporal movements of wildlife and the connection with habitat characteristics.
+
+![image](https://user-images.githubusercontent.com/111160288/184464569-85b65a40-72d3-4804-aa61-194cbc1d9462.png)
 
 # GIS Project
 
