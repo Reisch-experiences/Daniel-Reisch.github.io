@@ -20,10 +20,11 @@ Syntax highlighted code block
 
 # Transcripts
 
-[URI_transcriptnew.pdf](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330399/URI_transcriptnew.pdf)
+[URI_transcriptnew.pdf]
+https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330399/URI_transcriptnew.pdf
 
-[RIC Transcript new.pdf](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330398/RIC.Transcript.new.pdf)
-
+[RIC Transcript new.pdf]
+https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330398/RIC.Transcript.new.pdf
 
 **Bold** and _Italic_ and `Code` text
 
