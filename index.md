@@ -42,6 +42,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Songbird research
 [Link](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330525/Reisch_Songbird_Paper.pdf)
 
+Trail camera vs. track surveys
+[Link](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330565/DReisch.Final.Draft.Track.and.Camera.methods.pdf)
+
 
 
 ### Support or Contact
