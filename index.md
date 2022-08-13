@@ -1,3 +1,5 @@
+
+
 <header class="header-section has-img">
 
 <div class="big-img intro-header" style="background-image: url(&quot;https://beautifuljekyll.com/assets/img/start.jpg&quot;);">
@@ -5,11 +7,11 @@
     <div class="row">
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
         <div class="page-heading">
-          <h1>Getting started</h1>
+          <h1>Hi, I'm Dan. Welcome</h1>
           
             
               <hr class="small">
-              <span class="page-subheading">How to use Beautiful Jekyll</span>
+              <span class="page-subheading">**Field biologist. GIS specialist. Stats buff. Down to earth.**</span>
             
           
 
@@ -41,8 +43,6 @@
   </div>
 </div>
 </header>
-
-**Field biologist. GIS specialist. Stats buff. Down to earth.**
 
 
 ![image](https://user-images.githubusercontent.com/111160288/184464569-85b65a40-72d3-4804-aa61-194cbc1d9462.png)
