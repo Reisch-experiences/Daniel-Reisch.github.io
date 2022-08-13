@@ -1,5 +1,6 @@
 ## Daniel Reisch
-# Field Biologist. GIS specialist. Stats Buff. Down to earth.
+
+Field Biologist. GIS specialist. Stats Buff. Down to earth.
 
 
 
