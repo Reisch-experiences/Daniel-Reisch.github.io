@@ -22,7 +22,7 @@ author: Daniel Reisch
 ###############################################
 
 navbar-links:
-  Detailed Resume: ""
+  Detailed Resume: "/aboutme.md"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
