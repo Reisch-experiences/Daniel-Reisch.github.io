@@ -1,16 +1,16 @@
-## Daniel Reisch
+### Daniel Reisch
 
-Field Biologist. GIS specialist. Stats Buff. Down to earth.
+# Italic_Field Biologist. GIS specialist. Stats Buff. Down to earth.
 
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I specialize in surveying mammals, amphibians, and birds with extensive experience throughout the Northeast. With over 2 years in conservation biological research and experience in handling and trapping endangered/threatened species, I am proficient in variety of wildlife research techniques with a desire to learn all that I can. I also have a deep interest in studying animal behavior and spatial-temporal movements of wildlife and the connection with habitat characteristics.
 
 # Transcripts
-
+University of Rhode Island
 [Link](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330399/URI_transcriptnew.pdf)
 
-
+Rhode Island College
 [Link](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330398/RIC.Transcript.new.pdf))
 
 ### Markdown
@@ -29,11 +29,6 @@ Syntax highlighted code block
 
 # Transcripts
 
-[URI_transcriptnew.pdf]
-https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330399/URI_transcriptnew.pdf
-
-[RIC Transcript new.pdf]
-https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330398/RIC.Transcript.new.pdf
 
 **Bold** and _Italic_ and `Code` text
 
