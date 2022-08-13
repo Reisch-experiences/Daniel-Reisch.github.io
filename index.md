@@ -78,7 +78,7 @@ Rhode Island College
 
 ![image](https://user-images.githubusercontent.com/111160288/184464640-16845245-3f6c-4d10-9cdb-98570a2179d0.png)
 
-### Projects
+### Other Wildlife Projects
 
 Songbird research
 [Link](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330525/Reisch_Songbird_Paper.pdf)
