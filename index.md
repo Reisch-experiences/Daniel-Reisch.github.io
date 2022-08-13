@@ -1,4 +1,46 @@
-### Daniel Reisch
+<header class="header-section has-img">
+
+<div class="big-img intro-header" style="background-image: url(&quot;https://beautifuljekyll.com/assets/img/start.jpg&quot;);">
+  <div class="container-md">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+        <div class="page-heading">
+          <h1>Getting started</h1>
+          
+            
+              <hr class="small">
+              <span class="page-subheading">How to use Beautiful Jekyll</span>
+            
+          
+
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  <span class="img-desc" style="display: none;"></span>
+</div>
+
+<div class="intro-header no-img">
+  <div class="container-md">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+        <div class="page-heading">
+          <h1>Getting started</h1>
+          
+            
+              <hr class="small">
+              <span class="page-subheading">How to use Beautiful Jekyll</span>
+            
+          
+
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
 
 **Field biologist. GIS specialist. Stats buff. Down to earth.**
 
