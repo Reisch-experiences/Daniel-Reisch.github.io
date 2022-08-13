@@ -22,7 +22,7 @@ Learned conceptual foundations of GIS and remote sensing. Focused on unique prop
 
 Fundamentals of GIS: NRS 410
 
-Emphasis on using a geographic information system (GIS) to create a geographically referenced spatial database, spatial topology, data visualization, computer-assisted map making, and spatial data query and analysis. Special emphasis in using ArcMap, ArcGIS, and ArcInfo to create and use geographical databases, shapefiles, metadata, maps, and statistical and geometrical analyses
+Emphasis on using a geographic information system (GIS) to create a geographically referenced spatial database, spatial topology, data visualization, computer-assisted map making, and spatial data query and analysis. Special emphasis in using ArcMap, ArcGIS, and ArcInfo to create and use geographical databases, shapefiles, metadata, maps, and statistical and geometrical analyses.
 
 
 
